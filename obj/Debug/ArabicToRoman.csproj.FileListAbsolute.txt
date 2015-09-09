@@ -1,0 +1,6 @@
+d:\documents\visual studio 2013\Projects\ArabicToRoman\ArabicToRoman\bin\Debug\ArabicToRoman.exe.config
+D:\Documents\Visual Studio 2013\Projects\ArabicToRoman\ArabicToRoman\bin\Debug\ArabicToRoman.exe
+D:\Documents\Visual Studio 2013\Projects\ArabicToRoman\ArabicToRoman\bin\Debug\ArabicToRoman.pdb
+D:\Documents\Visual Studio 2013\Projects\ArabicToRoman\ArabicToRoman\obj\Debug\ArabicToRoman.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\ArabicToRoman\ArabicToRoman\obj\Debug\ArabicToRoman.exe
+D:\Documents\Visual Studio 2013\Projects\ArabicToRoman\ArabicToRoman\obj\Debug\ArabicToRoman.pdb
